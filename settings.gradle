@@ -1,0 +1,4 @@
+
+rootProject.name = "ViewModelUtilsAndroidLibrary"
+include ':app'
+include ':ViewModelUtilsAndroid'
